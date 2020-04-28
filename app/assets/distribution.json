@@ -12,9 +12,9 @@
     "servers": [{
         "id": "studio69",
         "name": "Studio 69",
-        "description": "Main WesterosCraft server. Connect to enter the Realm.",
+        "description": "Studio 69 Main Server",
         "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
-        "version": "3.9.4",
+        "version": "1.0.0",
         "address": "360nohope.co.uk:69",
         "minecraftVersion": "1.12.2",
         "discord": {
@@ -23,16 +23,6 @@
             "largeImageKey": "server-prod"
         },
         "mainServer": true,
-        "autoconnect": true,
-        "modules": [{
-            "id": "net.minecraftforge:forge:1.12.2-14.23.5.2847",
-            "name": "Minecraft Forge",
-            "type": "ForgeHosted",
-            "artifact": {
-                "size": 4450992,
-                "MD5": "3fcc9b0104f0261397d3cc897e55a1c5",
-                "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-universal.jar"
-            }
-        }]
+        "autoconnect": true
     }]
 }
