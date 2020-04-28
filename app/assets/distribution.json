@@ -236,8 +236,8 @@
                 ]
             },
             {
-                "id": "org.blockartistry:dynsurround:1.12.2-3.4.10.5",
-                "name": "DynamicSurroundings",
+                "id": "org.Mozzerello:bibliocraft:1.12.2-2.4.5",
+                "name": "Bibliocraft",
                 "type": "ForgeMod",
                 "required": {
                     "value": false
@@ -245,18 +245,8 @@
                 "artifact": {
                     "size": 22507134,
                     "MD5": "3d75602c66b7ccfc23c342e8d5e07469",
-                    "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/DynamicSurroundings.jar"
-                },
-                "subModules": [{
-                    "id": "dsurround.cfg",
-                    "name": "DynamicSurroundings General Configuration File",
-                    "type": "File",
-                    "artifact": {
-                        "size": 22179,
-                        "path": "/config/dsurround/dsurround.cfg",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/config/dsurround/dsurround.cfg"
-                    }
-                }]
+                    "url": "https://www.dropbox.com/s/4n2jmu0g0jujh8h/BiblioCraft%5Bv2.4.5%5D%5BMC1.12.2%5D.jar?dl=1"
+                }
             },
             {
                 "id": "options.txt",
